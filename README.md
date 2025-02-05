@@ -43,3 +43,17 @@ The dataset contains information about passengers such as:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Titanic_EDA.git
+
+Install the necessary libraries:
+
+pip install pandas numpy matplotlib seaborn missingno
+
+
+Open the Jupyter notebook:
+
+jupyter notebook Titanic_EDA.ipynb
+
+Run the notebook to explore the Titanic dataset and visualizations.
+
+📞 Contact
+For any questions or feedback, feel free to reach out to me on LinkedIn.
